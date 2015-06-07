@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrimiles/Weather-Project-Grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitrimiles/Weather-Project-Grunt/issues"
+  },
+  "homepage": "https://github.com/dimitrimiles/Weather-Project-Grunt#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

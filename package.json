@@ -20,5 +20,8 @@
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.1",
     "grunt-contrib-jshint": "^0.11.2"
+  },
+  "dependencies": {
+    "node-notifier": "^4.2.1"
   }
 }
